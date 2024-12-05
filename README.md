@@ -15,7 +15,7 @@ Após subir o ambiente docker, deve-se acessar o container da aplicação e exec
 
 Acessar o terminal do container de aplicação:
 ```
-docker exec -it app_projeto_notificacao_colaborativa bash
+docker exec -it application bash
 ```
 
 Ajustar permissões:
@@ -31,4 +31,4 @@ php artisan migrate
 
 Acessar a aplicação pelo navegador através do endereço abaixo:
 
-[http://localhost:8000](http://localhost:8000)
+[http://localhost:81](http://localhost:81)
