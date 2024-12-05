@@ -1,7 +1,3 @@
-## Projeto Notificação Colaborativa
-
-Esse projeto  visa criar um canal de informação para que a população possa notificar os Órgãos e Entidades públicas sobre problemas que devem ser sanados por estes.
-
 ### Execução do Projeto - Ambiente de Desenvolvimento
 
 Comandos para iniciar o ambiente de desenvolvimento:
@@ -32,3 +28,8 @@ php artisan migrate
 Acessar a aplicação pelo navegador através do endereço abaixo:
 
 [http://localhost:81](http://localhost:81)
+
+### É possivel consultar as informações pelas rotas:
+-http://127.0.0.1:8000/api/serviços
+
+-http://127.0.0.1:8000/api/prestadores
