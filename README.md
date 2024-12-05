@@ -30,6 +30,6 @@ Acessar a aplicação pelo navegador através do endereço abaixo:
 [http://localhost:81](http://localhost:81)
 
 ### É possivel consultar as informações pelas rotas:
--http://127.0.0.1:8000/api/serviços
+-http://localhost:81/api/serviços
 
--http://127.0.0.1:8000/api/prestadores
+-http://localhost:81/api/prestadores
